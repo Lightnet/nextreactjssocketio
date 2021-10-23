@@ -1,0 +1,9 @@
+/*
+https://nextjs.org/learn/basics/assets-metadata-css/global-styles
+Global CSS
+import '../styles/global.css'
+
+*/
+body{
+  margin: 0;
+}
